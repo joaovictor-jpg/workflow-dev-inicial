@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import path from 'path';
 import { fileURLToPath } from 'url';
 import * as dotenv from 'dotenv';
